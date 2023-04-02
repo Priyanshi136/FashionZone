@@ -7,4 +7,5 @@ b) In the middle of the bar, a floating action button(FAB) i.e. also the default
 c) Fragments-> Four different fragments for the four menu items of the navigation bar.
 d) Some cool ui stuffs-> card views, backgrounds, icons....etc.
 
-![IMG_20230402_190608](https://user-images.githubusercontent.com/82453715/229356480-d095117e-cad0-4392-b791-5f28fdd7c5f7.jpg)
+![rsz_1rsz_642985eacfe88](https://user-images.githubusercontent.com/82453715/229356681-87382259-a154-40b7-9d7a-d20f2843348a.png)
+
